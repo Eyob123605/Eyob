@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ናተይ Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>እንቋዕ ናብ Website ናይ እዮብ ብደሓን መጻእኩም!</h1>
+    
+    <p>እዚ ብ GitHub Pages ዝሰራሕክዎ ናተይ መጀመርታ Website እዩ።</p>
+
+    <!-- ምስሊ ንምእታው -->
+    <img src="myphoto.jpg" alt="ናተይ ምስሊ" width="300">
+
+</body>
+</html>
